@@ -1,0 +1,3 @@
+/homes/hxc22/3G4/src/CMakeFiles/rebuild_cache.dir
+/homes/hxc22/3G4/src/CMakeFiles/edit_cache.dir
+/homes/hxc22/3G4/src/CMakeFiles/3g4-lab.dir

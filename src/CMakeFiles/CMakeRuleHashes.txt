@@ -1,0 +1,17 @@
+# Hashes of file build rules.
+3bbf755fc19527c28f4490c38986a368 shaders/gouraud.frag.spv
+34f63523b9c2c47073929b354071b948 shaders/gouraud.vert.spv
+4a0229a86fbb07e9e855853b8dffc410 shaders/outline.frag.spv
+06743c38f8ac6029293448a567ba8b7e shaders/outline.vert.spv
+3b558b833f37058e9452e6b2265680d3 shaders/phong.frag.spv
+a9c45fac628273a89718700563950baa shaders/phong.vert.spv
+a021914534e2111d112ddba059787a9b shaders/reflect.frag.spv
+f1c36f88bf81566b983122677fe51d2c shaders/reflect.vert.spv
+ab6ea0acde76a1f5b7ea572d493472e9 shaders/refract.frag.spv
+5a3bd3f185971a9cc20401029a247ec6 shaders/refract.vert.spv
+4149e2e42bf1de26d40450f139fe6b6f shaders/shader.frag.spv
+79e4dd015d9f9f24a6376a3044e304f1 shaders/shader.vert.spv
+7090e9ea89b9dce3889d2ef84a9d6269 shaders/skybox.frag.spv
+d7e9b9e382e44f8f6397ee9be5948f67 shaders/skybox.vert.spv
+56949a98feb100d61b16f72acc157da6 shaders/wireframe.frag.spv
+1a7491588df189e71fafd60798a71758 shaders/wireframe.vert.spv
